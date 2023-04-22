@@ -1,1 +1,2 @@
 #define SPLIT_USB_DETECT
+#define OLED_BRIGHTNESS 128

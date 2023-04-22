@@ -1,1 +1,4 @@
 SRC += source.c
+OLED_ENABLE = yes
+OLED_DRIVER = SSD1306
+BACKLIGHT_ENABLE = yes
